@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Dell-08\\.gradle\\caches\\transforms-2\\files-2.1\\bf96d2b5a86ecd602a621e7e96856420\\appcompat-1.2.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "394,464,548,632,728,830,932,1026",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "459,543,627,723,825,927,1021,1110"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\values-night\\colors.xml",
+                    "from": {
+                        "startLines": "4,6,2,3,7,5,8",
+                        "startColumns": "8,8,8,8,8,8,8",
+                        "startOffsets": "169,270,61,113,320,220,373",
+                        "endColumns": "49,48,50,54,51,48,60",
+                        "endOffsets": "210,310,103,159,363,260,425"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,146,193,244,292,337",
+                        "endColumns": "45,44,46,50,47,44,56",
+                        "endOffsets": "96,141,188,239,287,332,389"
+                    }
+                }
+            ]
+        }
+    ]
+}

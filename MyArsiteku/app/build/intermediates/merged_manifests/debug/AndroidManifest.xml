@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myarsiteku"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="30" />
+
+    <application
+        android:name="com.example.myarsiteku.ModeGelap"
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.myarsiteku.Activity6" />
+        <activity android:name="com.example.myarsiteku.Activity5" />
+        <activity android:name="com.example.myarsiteku.Activity4" />
+        <activity android:name="com.example.myarsiteku.Activity3" />
+        <activity android:name="com.example.myarsiteku.Activity2" />
+        <activity android:name="com.example.myarsiteku.Activity1" />
+        <activity android:name="com.example.myarsiteku.SecondActivity" />
+        <activity android:name="com.example.myarsiteku.SplashScreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.myarsiteku.MainActivity" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

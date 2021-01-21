@@ -1,0 +1,470 @@
+[
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.png.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_interior_54.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\interior_54.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tipe_120.png.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\tipe_120.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tab_interior120.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\layout\\fragment_tab_interior120.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_interior_70.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\interior_70.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_desain_120.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\desain_120.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_interioir_452.png.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\interioir_452.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tipe_70.png.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\tipe_70.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tab_home120.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\layout\\fragment_tab_home120.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_denah_451.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\denah_451.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_denah_1201.png.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\denah_1201.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_interior_543.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\interior_543.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tab_home70.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\layout\\fragment_tab_home70.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_1.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\layout\\activity_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_denah_54.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\denah_54.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_desain_36.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\desain_36.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_denah_70.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\denah_70.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tab_home54.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\layout\\fragment_tab_home54.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_desian_45.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\desian_45.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_denah_120.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\denah_120.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_interior_60.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\interior_60.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_interioir_601.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\interioir_601.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tab_desain45.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\layout\\fragment_tab_desain45.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_interior_45.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\interior_45.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_denah_541.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\denah_541.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_denah_364.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\denah_364.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_interior_362.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\interior_362.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tipe_45.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\tipe_45.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tab_desain60.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\layout\\fragment_tab_desain60.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_6.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\layout\\activity_6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tipe_60.png.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\tipe_60.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_desain_541.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\desain_541.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_54.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\home_54.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tab_interior70.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\layout\\fragment_tab_interior70.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pixel_google.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\pixel_google.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_interior_452.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\interior_452.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tab_interior45.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\layout\\fragment_tab_interior45.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_denah_701.png.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\denah_701.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_desain_451.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\desain_451.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tab_desain70.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\layout\\fragment_tab_desain70.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_3.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\layout\\activity_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_desain_60.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\desain_60.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_second.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tipe_36.png.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\tipe_36.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_45.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\home_45.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_denah_601.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\denah_601.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_desain_364.png.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\desain_364.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_interior_361.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\interior_361.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_interior_1202.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\interior_1202.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_desain_70.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\desain_70.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tab_interior36.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\layout\\fragment_tab_interior36.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_interior_701.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\interior_701.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tab_home36.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\layout\\fragment_tab_home36.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_denah_362.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\denah_362.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_4.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\layout\\activity_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tab_desain36.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\layout\\fragment_tab_desain36.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_denah_60.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\denah_60.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tab_interior60.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\layout\\fragment_tab_interior60.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_desain_701.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\desain_701.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_interior_36.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\interior_36.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_collections_white_18dp.png.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\ic_collections_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_desain_362.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\desain_362.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tab_home45.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\layout\\fragment_tab_home45.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_desain_601.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\desain_601.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_interior_453.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\interior_453.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_denah_361.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\denah_361.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tab_home60.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\layout\\fragment_tab_home60.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_36.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\home_36.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_photo_2.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\photo_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_interior_1203.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\interior_1203.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_denah_45.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\denah_45.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_desain_1201.png.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\desain_1201.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_interior_702.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\interior_702.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_interior_602.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\interior_602.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_interior_363.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\interior_363.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_70.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\home_70.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_120.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\home_120.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home.png.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_5.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\layout\\activity_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_desain_363.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\desain_363.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_interior_1201.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\interior_1201.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_interior_541.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\interior_541.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_interior_451.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\interior_451.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tab_interior54.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\layout\\fragment_tab_interior54.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_2.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\layout\\activity_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_interior_603.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\interior_603.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tipe_54.png.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\tipe_54.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tab_desain54.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\layout\\fragment_tab_desain54.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_interior_703.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\interior_703.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_60.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\home_60.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_denah_363.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\denah_363.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tab_desain120.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\layout\\fragment_tab_desain120.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_desain_54.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\desain_54.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\font_droid_sans.xml.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\font\\droid_sans.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_interior_120.jpg.flat",
+        "source": "C:\\Users\\Dell-08\\ProjectUAS\\MyArsiteku\\app\\src\\main\\res\\drawable\\interior_120.jpg"
+    }
+]

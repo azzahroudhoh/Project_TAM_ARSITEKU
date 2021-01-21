@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">MyArsiteku</string>
+    <string name="arsiteku">ARSITEKU</string>
+    <string name="appbar_scrolling_view_behavior" />
+    <string name="tipe_rumah">TIPE RUMAH</string>
+    <string name="activity_1">Activity 1</string>
+    <string name="activity_2">Activity 2</string>
+    <string name="activity_3">Activity 3</string>
+    <string name="activity_4">Activity 4</string>
+    <string name="activity_5">Activity 5</string>
+    <string name="tipe_36">TIPE 36</string>
+    <string name="tipe_45">TIPE 45</string>
+    <string name="tipe_54">TIPE 54</string>
+    <string name="tipe_60">TIPE 60</string>
+    <string name="tipe_120">TIPE 120</string>
+    <string name="tipe_70">TIPE 70</string>
+    <string name="activity_6">Activity 6</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ini_tampilan_untuk_denah_rumah_tipe_36">Ini tampilan untuk denah rumah tipe 36</string>
+    <string name="ini_tampilan_untuk_denah_rumah_tipe_120">Ini tampilan untuk denah rumah tipe 120</string>
+    <string name="ini_tampilan_untuk_denah_rumah_tipe_45">Ini tampilan untuk denah rumah tipe 45</string>
+    <string name="ini_tampilan_untuk_denah_rumah_tipe_54">Ini tampilan untuk denah rumah tipe 54</string>
+    <string name="ini_tampilan_untuk_denah_rumah_tipe_60">Ini tampilan untuk denah rumah tipe 60</string>
+    <string name="ini_tampilan_untuk_denah_rumah_tipe_70">Ini tampilan untuk denah rumah tipe 70</string>
+    <string name="ini_tampilan_untuk_desain_rumah_tipe_120">Ini tampilan untuk desain rumah tipe 120</string>
+    <string name="ini_tampilan_untuk_desain_rumah_tipe_36">Ini tampilan untuk desain rumah tipe 36</string>
+    <string name="ini_tampilan_untuk_desain_rumah_tipe_45">Ini tampilan untuk desain rumah tipe 45</string>
+    <string name="ini_tampilan_untuk_desain_rumah_tipe_54">Ini tampilan untuk desain rumah tipe 54</string>
+    <string name="ini_tampilan_untuk_desain_rumah_tipe_60">Ini tampilan untuk desain rumah tipe 60</string>
+    <string name="ini_tampilan_untuk_desain_rumah_tipe_70">Ini tampilan untuk desain rumah tipe 70</string>
+    <string name="ini_tampilan_untuk_pengenalan_rumah_tipe_120">Ini tampilan untuk pengenalan rumah tipe 120</string>
+    <string name="ini_tampilan_untuk_pengenalan_rumah_tipe_36">Ini tampilan untuk pengenalan rumah tipe 36</string>
+    <string name="ini_tampilan_untuk_pengenalan_rumah_tipe_45">Ini tampilan untuk pengenalan rumah tipe 45</string>
+    <string name="ini_tampilan_untuk_pengenalan_rumah_tipe_54">Ini tampilan untuk pengenalan rumah tipe 54</string>
+    <string name="ini_tampilan_untuk_pengenalan_rumah_tipe_60">Ini tampilan untuk pengenalan rumah tipe 60</string>
+    <string name="ini_tampilan_untuk_pengenalan_rumah_tipe_70">Ini tampilan untuk pengenalan rumah tipe 70</string>
+    <string name="ini_tampilan_untuk_interior_rumah_tipe_120">Ini tampilan untuk interior rumah tipe 120</string>
+    <string name="ini_tampilan_untuk_interior_rumah_tipe_36">Ini tampilan untuk interior rumah tipe 36</string>
+    <string name="ini_tampilan_untuk_interior_rumah_tipe_45">Ini tampilan untuk interior rumah tipe 45</string>
+    <string name="ini_tampilan_untuk_interior_rumah_tipe_54">Ini tampilan untuk interior rumah tipe 54</string>
+    <string name="ini_tampilan_untuk_interior_rumah_tipe_60">Ini tampilan untuk interior rumah tipe 60</string>
+    <string name="ini_tampilan_untuk_interior_rumah_tipe_70">Ini tampilan untuk interior rumah tipe 70</string>
+
+
+    <string name="content_text36">Rumah tipe 36 adalah rumah yang mempunyai luas bangunan 36 m2.
+    Contohnya adalah sebuah rumah dengan ukuran 6m x 6m = 36 m2. Rumah tipe 36 ini dapat dibangun di atas tanah seluas 60 m2 atau 72 m2.
+    Jadi biasanya rumah tipe ini disebut dengan rumah tipe 36/60 atau 36/72. Tipe rumah 36 biasanya mempunyai 2 kamar tidur, 1 ruang tamu yang menyatu dengan ruang keluarga, dapur, dan 1 kamar mandi.
+    Rumah tipe 36 cocok untuk Anda yang sudah memiliki anak, tetapi menginginkan rumah yang tidak terlalu besar.</string>
+    <string name="content_specs_display36">Waskita</string>
+    <string name="content_specs_size36">6m x 6m = 36 m2.</string>
+    <string name="content_specs_battery36">Arsitag, IKEA</string>
+
+    <string name="content_text45">Rumah tipe 45 adalah tipe rumah yang mempunyai luas bangunan 45 m2, contohnya ukuran rumah seperti 6 m x 7,5 m atau 8 m x 5,6 m. Rumah tipe 45 ini biasanya dibangun di atas tanah seluas 96 m2. Maka, rumah tipe ini sering juga disebut dengan rumah tipe 45/96. Ruangan yang biasanya tersedia pada rumah tipe ini antara lain 2 kamar tidur, 1 kamar mandi, 1 ruang tamu yang menyatu dengan ruang keluarga, carport, dan teras rumah yang lumayan luas.</string>
+    <string name="content_specs_display45">Waskita</string>
+    <string name="content_specs_size45"> 6 m x 7,5 m atau 8 m x 5,6 m.</string>
+    <string name="content_specs_battery45">IKEA, ACEHARDWARE</string>
+
+    <string name="content_text60">Rumah tipe 60 biasanya mempunyai ukuran bangunan 6 m x 10 m. Rumah ini sudah cukup luas dengan 3 kamar tidur, 2 kamar mandi, 1 ruang tamu, ruang keluarga, garasi mobil, dan teras rumah. Rumah tipe 60 sudah dapat dikatakan cukup lega, tetapi dengan harga yang masih terjangkau.</string>
+    <string name="content_specs_display60">Waskita</string>
+    <string name="content_specs_size60"> 6 m x 10 m.</string>
+    <string name="content_specs_battery60">IKEA</string>
+
+    <string name="content_text54">Rumah type 54 artinya rumah dengan luas bangunan 54 meter persegi. Penulisan rumah type 54 biasanya diikuti dengan luas lahan seperti rumah type 54/120 atau rumah type 54/150. Rumah type 54/120 artinya rumah dengan luas bangunan 54 meter persegi yang dibangun di lahan seluas 120 meter persegi.</string>
+    <string name="content_specs_display54">Waskita</string>
+    <string name="content_specs_size54">8 x 15 meter (120 m2).</string>
+    <string name="content_specs_battery54">Interiorku</string>
+
+    <string name="content_text70">Seperti namanya, rumah type 70 ini memiliki ukuran luas 70 meter persegi. Rumah tipe ini biasanya berdimensi 7 x 10 meter hingga 5 x 14 meter.
+
+Dalam penulisannya, rumah tipe ini biasanya ditulis dengan garis miring seperti 70 / 120 atau 70 / 150. Artinya adalah rumah dengan luas bangunan 70 meter persegi itu dibangun di atas lahan seluas 120 meter persegi. Sama halnya juga dengan rumah type 70 / 150 yang dibangun diatas lahan seluas 150 meter persegi.</string>
+    <string name="content_specs_display70">PT Wijaya Karya Tbk </string>
+    <string name="content_specs_size70">7 x 10 meter hingga 5 x 14 meter. </string>
+    <string name="content_specs_battery70">PT Wijaya Karya Tbk </string>
+
+    <string name="content_text120">Tipe rumah 120 artinya rumah memiliki luas bangunan 120 meter persegi. Baik dibangun menjadi rumah 1 lantai atau rumah 2 lantai, rumah tipe 120 memiliki luas bangunan 120 meter persegi.
+
+
+Luas tanah rumah type 120 berbeda-beda.
+
+
+Misalnya, Anda dapat menemukan rumah tipe 120/70, tipe 120/110, dan tipe 120/130. Angka di belakang setelah garis miring ini menandakan luas tanah rumah yang bersangkutan.
+
+
+Maka artinya rumah type 120/110 adalah rumah dengan luas bangunan 120 meter persegi dengan luas tanah 110 meter persegi.
+
+
+Rumah type 120/130 artinya rumah dengan luas bangunan 120 meter persegi dan luas tanah 130 meter persegi.</string>
+    <string name="content_specs_display120">PT Wijaya Karya Tbk </string>
+    <string name="content_specs_size120">10 x 12 meter atau 8 x 15 meter.</string>
+    <string name="content_specs_battery120">PT Wijaya Karya Tbk </string>
+
+    <string name="_73536">Rp150.000.000,00</string>
+    <string name="_73545">Rp200.000.000,00</string>
+    <string name="_73554">Rp245.444.000,00</string>
+    <string name="_73560">Rp412.120.000,00</string>
+    <string name="_73570">Rp520.000.000,00</string>
+    <string name="_735120">Rp980.000.000,00</string>
+    <string name="stock_hanya_5_buah">Biaya Membangun</string>
+    <string name="spesifikasi">Spesifikasi</string>
+    <string name="display">Developer</string>
+    <string name="size">Luas Tanah</string>
+    <string name="battery">Interior</string>
+    <string name="dijual_oleh">Di Desain Oleh</string>
+    <string name="narenda_wicaksono">Narenda Wicaksono</string>
+    <string name="beli">Beli</string>
+</resources>

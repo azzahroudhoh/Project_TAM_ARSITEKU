@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <color name="colorPrimary">#303030</color>
+        <color name="colorPrimaryDark">#202020</color>
+        <color name="colorAccent">#232323</color>
+        <color name="colorWhite">#6C6C6C</color>
+        <color name="colorBlack">#F4F4F4</color>
+        <color name="colorSubtitle">#E3E0E0</color>
+        <color name="textPopupEditTextColor">#03DAC5</color>
+
+</resources>
